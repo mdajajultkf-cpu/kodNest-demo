@@ -1,3 +1,3 @@
 # kodNest-demo
 This is my first Git Repository
-Author - MD Ajajul
+Author - Md Ajajul
